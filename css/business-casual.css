@@ -5,8 +5,8 @@
  */
 
 body {
-  font-family: 'Lora';
-  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../img/bg.jpg");
+  font-family: 'Delius Unicase';
+  background-image: linear-gradient(rgba(45, 59, 22, 0.65), rgba(44, 47, 15, 0.65)), url("../img/bulb-gears.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway';
+  font-family: 'Delius';
 }
 
 p {
@@ -34,7 +34,7 @@ p {
   margin-bottom: 5rem;
   text-transform: uppercase;
   line-height: 1;
-  font-family: 'Raleway';
+  font-family: 'Delius Unicase';
 }
 
 .site-heading .site-heading-upper {
@@ -75,8 +75,8 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
-  font-family: 'Raleway';
+  background-color: #ff730167;
+  font-family: 'Delius';
 }
 
 #mainNav .navbar-brand {
@@ -145,7 +145,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color:#0170b5b4;
 }
 
 .cta .cta-inner {
@@ -226,7 +226,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: #ce3aa996;
 }
 
 .text-primary {
@@ -234,7 +234,7 @@ p {
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #CE3AAA !important;
 }
 
 .btn {
@@ -242,12 +242,12 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
+  background-color: #CE3AAA;
   border-color: #e6a756;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #df902a;
+  background-color: #ce3aa95b;
   border-color: #df902a;
 }
 

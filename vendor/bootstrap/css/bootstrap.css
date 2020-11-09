@@ -10275,21 +10275,21 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .bg-login-image {
-  background: linear-gradient(rgba(45, 59, 22, 0.425), rgba(44, 47, 15, 0.329)), url("/img/4270271.png");
+  background: linear-gradient(rgba(45, 59, 22, 0.425), rgba(44, 47, 15, 0.329)), url("4270271.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .bg-login-image1 {
-  background: linear-gradient(rgba(45, 59, 22, 0.425), rgba(44, 47, 15, 0.329)), url("/img/4565.png");
+  background: linear-gradient(rgba(45, 59, 22, 0.425), rgba(44, 47, 15, 0.329)), url("4565.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .bg-register-image {
-  background: linear-gradient(rgba(45, 59, 22, 0.425), rgba(44, 47, 15, 0.329)), url("/img/4530763.png");
+  background: linear-gradient(rgba(45, 59, 22, 0.425), rgba(44, 47, 15, 0.329)), url("4530763.png");
   background-position: center;
   background-size: cover;
 }

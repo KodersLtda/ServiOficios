@@ -10269,9 +10269,9 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .bg-gradient-primary1 {  
-  background-image: url(/img/bulb-gears.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #0070b5;
+background-image: linear-gradient(225deg, #0070b5 0%, #ce3aaa 46%, #ff7400 100%);
+  
 }
 
 .bg-login-image {
@@ -10385,7 +10385,7 @@ form.user .btn-user {
   padding: 0.75rem 1rem;
 }
 
-
+/* 
 .team-member {
   margin-bottom: 3rem;
   text-align: center;
@@ -10398,7 +10398,7 @@ form.user .btn-user {
 .team-member h4 {
   margin-top: 1.5rem;
   margin-bottom: 0;
-
+}
 
 .btn-social {
   height: 2.5rem;
@@ -10416,5 +10416,5 @@ form.user .btn-user {
   font-size: 1.125rem;
   font-weight: 700;
 }
-
+ */
 
